@@ -4,7 +4,7 @@ lista=[]
 agenda= { }
 
 
-##Criando a estrutura dos dados
+##Criando a estrutura dos dados para a agenda
 
 def adicionar_novo_contato():
     print('Inserindo novos numeros')
